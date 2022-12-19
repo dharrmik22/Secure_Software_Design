@@ -1,4 +1,3 @@
-# Secure_Software_Design
 -The following was the objective:
 
 • The hosted version of the SecureCodingDojo must be available over the/a network and
